@@ -1,0 +1,21 @@
+export let petitDico = [
+    "abdiquer",
+    "abondant",
+    "aborder",
+    "abrasif",
+    "abreger",
+    "abriter",
+    "abroger",
+    "absenter",
+    "absorber",
+    "abuser",
+    "acadien",
+    "acajou",
+    "acalephe",
+    "accabler",
+    "accastill",
+    "accroche",
+    "accuser",
+    "acerbe",
+    "achaland"
+];
